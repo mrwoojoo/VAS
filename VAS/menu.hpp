@@ -338,7 +338,7 @@ class VAS_Diag {
 		class VersionNumber : Title {
 			idc = 2404;
 			style = 1;
-			text = "v2.9";
+			text = "v2.91";
 		};
 
 		class ButtonAddG : VAS_RscButtonMenu
