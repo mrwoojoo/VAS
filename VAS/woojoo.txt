@@ -7,6 +7,6 @@ Sep 6, 2015
 
 modify common.hpp
 Sep 6, 2015
-> line 76, inserted colorDisabled[] = {1, 1, 1, 0.3};
+> line 184, inserted colorDisabled[] = {1, 0.2, 0.2, 0.3};
 > line 537, inserted colorDisabled[] = {1, 1, 1, 0.3};
 > line 1067, inserted colorDisabled[] = {1, 1, 1, 0.3};
