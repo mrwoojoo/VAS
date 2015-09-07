@@ -1,0 +1,12 @@
+change log for Tonics "virtual ammobox system"
+by end user
+
+modify version in menu.hpp
+Sep 6, 2015
+> line 341, updated from "v2.9" to "v2.91"
+
+modify common.hpp
+Sep 6, 2015
+> line 76, inserted colorDisabled[] = {1, 1, 1, 0.3};
+> line 537, inserted colorDisabled[] = {1, 1, 1, 0.3};
+> line 1067, inserted colorDisabled[] = {1, 1, 1, 0.3};
